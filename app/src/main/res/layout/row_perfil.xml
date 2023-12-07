@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="perfilRowModel" type="com.victriasapplication.app.modules.perfil.data.model.PerfilRowModel"/>
+        <variable name="perfilRowModel" type="com.ichords.app.modules.perfil.data.model.PerfilRowModel"/>
     </data>
     <LinearLayout android:id="@+id/linearRowconcluaaomeno"
         android:layout_height="wrap_content"

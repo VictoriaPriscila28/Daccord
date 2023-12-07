@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="mSicaLetraRowModel" type="com.victriasapplication.app.modules.msicaletra.data.model.MSicaLetraRowModel"/>
+        <variable name="mSicaLetraRowModel" type="com.ichords.app.modules.msicaletra.data.model.MSicaLetraRowModel"/>
     </data>
     <LinearLayout android:id="@+id/linearRowam"
         android:layout_height="wrap_content"

@@ -2,7 +2,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="homePageVM" type="com.victriasapplication.app.modules.homepage.data.viewmodel.HomePageVM"/>
+        <variable name="homePageVM" type="com.ichords.app.modules.homepage.data.viewmodel.HomePageVM"/>
     </data>
     <LinearLayout android:gravity="start"
         android:id="@+id/linearColumnichordstwo"

@@ -75,7 +75,7 @@
 
 
 # Add any classes the interact with gson
--keep class com.victriasapplication.app.** { *; }
+-keep class com.ichords.app.** { *; }
 
 
 

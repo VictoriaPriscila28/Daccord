@@ -2,7 +2,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="mSicaAcordesVM" type="com.victriasapplication.app.modules.msicaacordes.data.viewmodel.MSicaAcordesVM"/>
+        <variable name="mSicaAcordesVM" type="com.ichords.app.modules.msicaacordes.data.viewmodel.MSicaAcordesVM"/>
     </data>
     <LinearLayout android:id="@+id/linearColumnarrowleft"
         android:layout_height="match_parent"

@@ -2,7 +2,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="aulasVM" type="com.victriasapplication.app.modules.aulas.data.viewmodel.AulasVM"/>
+        <variable name="aulasVM" type="com.ichords.app.modules.aulas.data.viewmodel.AulasVM"/>
     </data>
     <LinearLayout android:gravity="start"
         android:id="@+id/linearColumnaulas"

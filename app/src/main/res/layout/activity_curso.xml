@@ -2,7 +2,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="cursoVM" type="com.victriasapplication.app.modules.curso.data.viewmodel.CursoVM"/>
+        <variable name="cursoVM" type="com.ichords.app.modules.curso.data.viewmodel.CursoVM"/>
     </data>
     <LinearLayout android:gravity="center_horizontal"
         android:id="@+id/linearColumnarrowleft"

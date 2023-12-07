@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="loginVM" type="com.victriasapplication.app.modules.login.data.viewmodel.LoginVM"/>
+        <variable name="loginVM" type="com.ichords.app.modules.login.data.viewmodel.LoginVM"/>
     </data>
     <LinearLayout android:gravity="center_horizontal"
         android:id="@+id/linearColumnichordstwo"

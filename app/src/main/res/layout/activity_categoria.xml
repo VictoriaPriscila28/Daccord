@@ -2,7 +2,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="categoriaVM" type="com.victriasapplication.app.modules.categoria.data.viewmodel.CategoriaVM"/>
+        <variable name="categoriaVM" type="com.ichords.app.modules.categoria.data.viewmodel.CategoriaVM"/>
     </data>
     <LinearLayout android:gravity="start"
         android:id="@+id/linearColumnarrowleft"
